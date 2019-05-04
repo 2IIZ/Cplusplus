@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1472545056 source:c:\users\2iiz\desktop\c++\ajouter fichier\main.cpp
+	<iostream>
+	"header.h"
+
+1472545056 c:\users\2iiz\desktop\c++\ajouter fichier\header.h
+	<string>
+
+1472545056 source:c:\users\2iiz\desktop\c++\ajouter fichier\math.cpp
+	"math.h"
+

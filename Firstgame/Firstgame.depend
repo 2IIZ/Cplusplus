@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1477556432 source:c:\users\2iiz\desktop\c++\firstgame\main.cpp
+	<iostream>
+	<string>
+	<ctime>
+	<cstdlib>
+	<fstream>
+

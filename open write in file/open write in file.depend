@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1475323381 source:c:\users\2iiz\desktop\c++\open write in file\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+
